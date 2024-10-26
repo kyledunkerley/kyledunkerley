@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kyle
 - 👀 I’m interested in PowerShell, blogging and Xbox
-- 🌱 I’m currently collecting Azure Certifications - the next one is for AZ-104
-- 📫 Check out my blog @ KyleDunkerley.com
+- 🌱 I’m currently collecting Azure Certifications. Just passed my AZ305 certification!
+- ✍️ Check out my blog @ KyleDunkerley.com
+- 🕸️ Check out my website @ KyleDunkerley.pro
 - ⚡ Fun fact: I host an Xbox podcast that you can find @ TheXboxCast.co.nz
 
 <!---
