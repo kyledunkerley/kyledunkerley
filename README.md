@@ -2,7 +2,7 @@
 
 Infrastructure lead, writer, podcaster, and the person who turns “I wonder if…” into another project.
 
-🏢 **Director of Southlight I/O**
+🏢 **Director of Southlight I/O** <br>
 🎨 **Creative Visionary behind Made By Humans**  
 
 By day, I lead infrastructure teams and work with Azure, Windows Server, and PowerShell. Outside of that, I build apps, write, and talk far too much about Xbox. I enjoy making complicated things easier to use, especially when it means automating something I’d otherwise have to do twice.
